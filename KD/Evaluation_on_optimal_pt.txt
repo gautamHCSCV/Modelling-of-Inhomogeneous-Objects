@@ -1,0 +1,18 @@
+For point = 76, mean rmse =0.760719387393271, Standard deviation = 0.36657604061003646
+For point = 78, mean rmse =0.7646560976391499, Standard deviation = 0.3653639459244507
+For point = 79, mean rmse =0.9288307926907602, Standard deviation = 0.3336619540793282
+For point = 80, mean rmse =0.7645794412626746, Standard deviation = 0.365730037095113
+For point = 82, mean rmse =0.9268653062488147, Standard deviation = 0.3346612128353635
+
+For point = 76, mean rmse =0.8191557016495583, Standard deviation = 0.36940375218524824
+For point = 78, mean rmse =0.8195852046980888, Standard deviation = 0.3728929361049412
+For point = 79, mean rmse =0.9970609038849778, Standard deviation = 0.3048801221761634
+For point = 80, mean rmse =0.8198996652491836, Standard deviation = 0.3728435681644687
+For point = 82, mean rmse =0.9965505036635822, Standard deviation = 0.3040555830219384
+
+Without Intercept:
+For point = 76, mean rmse =0.8191164640826691, Standard deviation = 0.37238827866625895
+For point = 78, mean rmse =0.8193998511738896, Standard deviation = 0.3758816163926885
+For point = 79, mean rmse =0.9981560833446435, Standard deviation = 0.3078236492394941
+For point = 80, mean rmse =0.8196944823130966, Standard deviation = 0.3758397698813457
+For point = 82, mean rmse =0.9976561155099268, Standard deviation = 0.30699252510901415
